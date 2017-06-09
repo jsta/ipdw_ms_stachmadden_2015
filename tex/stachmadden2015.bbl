@@ -1,0 +1,209 @@
+\begin{thebibliography}{29}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{Anttila \emph{et~al.}(2008)Anttila, Kairesalo, and
+  Pellikka}]{anttila2008feasible}
+Anttila S, Kairesalo T, Pellikka P (2008).
+\newblock \enquote{A feasible method to assess inaccuracy caused by patchiness
+  in water quality monitoring.}
+\newblock \emph{Environmental monitoring and assessment}, \textbf{142}(1-3),
+  11--22.
+
+\bibitem[{Buzzelli \emph{et~al.}(2014)Buzzelli, Boutin, Ashton, Welch, Gorman,
+  Wan, and Doering}]{buzzelli2014fine}
+Buzzelli C, Boutin B, Ashton M, Welch B, Gorman P, Wan Y, Doering P (2014).
+\newblock \enquote{Fine-scale detection of estuarine water quality with managed
+  freshwater releases.}
+\newblock \emph{Estuaries and Coasts}, \textbf{37}(5), 1134--1144.
+
+\bibitem[{Collischonn and Pilar(2000)}]{collischonn2000direction}
+Collischonn W, Pilar JV (2000).
+\newblock \enquote{A direction dependent least-cost-path algorithm for roads
+  and canals.}
+\newblock \emph{International Journal of Geographical Information Science},
+  \textbf{14}(4), 397--406.
+
+\bibitem[{Csardi and Nepusz(2006)}]{csardi2006igraph}
+Csardi G, Nepusz T (2006).
+\newblock \enquote{The igraph software package for complex network research.}
+\newblock \emph{InterJournal, Complex Systems}, \textbf{1695}(5), 1--9.
+
+\bibitem[{Davis~III \emph{et~al.}(2004)Davis~III, Cable, Childers,
+  Coronado-Molina, Day~Jr, Hittle, Madden, Reyes, Rudnick, and
+  Sklar}]{davis2004importance}
+Davis~III SE, Cable JE, Childers DL, Coronado-Molina C, Day~Jr JW, Hittle CD,
+  Madden CJ, Reyes E, Rudnick D, Sklar F (2004).
+\newblock \enquote{Importance of storm events in controlling ecosystem
+  structure and function in a Florida gulf coast estuary.}
+\newblock \emph{Journal of Coastal Research}, pp. 1198--1208.
+
+\bibitem[{Fourqurean \emph{et~al.}(2003)Fourqurean, Boyer, Durako, Hefty, and
+  Peterson}]{fourqurean2003forecasting}
+Fourqurean JW, Boyer JN, Durako MJ, Hefty LN, Peterson BJ (2003).
+\newblock \enquote{Forecasting responses of seagrass distributions to changing
+  water quality using monitoring data.}
+\newblock \emph{Ecological Applications}, \textbf{13}(2), 474--489.
+
+\bibitem[{Greenberg \emph{et~al.}(2011)Greenberg, Rueda, Hestir, Santos, and
+  Ustin}]{greenberg2011least}
+Greenberg JA, Rueda C, Hestir EL, Santos MJ, Ustin SL (2011).
+\newblock \enquote{Least cost distance analysis for spatial interpolation.}
+\newblock \emph{Computers \& Geosciences}, \textbf{37}(2), 272--276.
+
+\bibitem[{IOC(2010)}]{iociapso}
+IOC S (2010).
+\newblock \enquote{The international thermodynamic equation of seawater--2010:
+  Calculation and use of thermodynamic properties.}
+
+\bibitem[{Isaaks \emph{et~al.}(1989)Isaaks, Srivastava
+  \emph{et~al.}}]{isaaks1989applied}
+Isaaks EH, Srivastava RM, \emph{et~al.} (1989).
+\newblock \emph{Applied geostatistics}, volume~2.
+\newblock Oxford University Press New York.
+
+\bibitem[{Kelble \emph{et~al.}(2007)Kelble, Johns, Nuttle, Lee, Smith, and
+  Ortner}]{kelble2007salinity}
+Kelble CR, Johns EM, Nuttle WK, Lee TN, Smith RH, Ortner PB (2007).
+\newblock \enquote{Salinity patterns of Florida Bay.}
+\newblock \emph{Estuarine, Coastal and Shelf Science}, \textbf{71}(1),
+  318--334.
+
+\bibitem[{Krivoruchko and Gribov(2004)}]{krivoruchko2004geostatistical}
+Krivoruchko K, Gribov A (2004).
+\newblock \enquote{Geostatistical interpolation and simulation with
+  non-euclidean distances.}
+
+\bibitem[{Little \emph{et~al.}(1997)Little, Edwards, and
+  Porter}]{little1997kriging}
+Little LS, Edwards D, Porter DE (1997).
+\newblock \enquote{Kriging in estuaries: as the crow flies, or as the fish
+  swims?}
+\newblock \emph{Journal of experimental marine biology and ecology},
+  \textbf{213}(1), 1--11.
+
+\bibitem[{L{\o}land and H{\o}st(2003)}]{loland2003spatial}
+L{\o}land A, H{\o}st G (2003).
+\newblock \enquote{Spatial covariance modelling in a complex coastal domain by
+  multidimensional scaling.}
+\newblock \emph{Environmetrics}, \textbf{14}(3), 307--321.
+
+\bibitem[{L{\'o}pez-Qu{\'\i}lez and Mu{\~n}oz(2009)}]{lopez2009geostatistical}
+L{\'o}pez-Qu{\'\i}lez A, Mu{\~n}oz F (2009).
+\newblock \enquote{Geostatistical computing of acoustic maps in the presence of
+  barriers.}
+\newblock \emph{Mathematical and Computer Modelling}, \textbf{50}(5), 929--938.
+
+\bibitem[{Madden and Day(1992)}]{madden1992instrument}
+Madden CJ, Day JW (1992).
+\newblock \enquote{An instrument system for high-speed mapping of chlorophyll a
+  and physico-chemical variables in surface waters.}
+\newblock \emph{Estuaries}, \textbf{15}(3), 421--427.
+
+\bibitem[{Madden and McDonald(2009)}]{madden2009florida}
+Madden CJ, McDonald AA (2009).
+\newblock \enquote{Florida Bay SEACOM: Seagrass Ecological Assessment and
+  Community Organization Model.}
+
+\bibitem[{Marshall \emph{et~al.}(2011)Marshall, Smith, and
+  Nickerson}]{marshall2011empirical}
+Marshall F, Smith D, Nickerson D (2011).
+\newblock \enquote{Empirical tools for simulating salinity in the estuaries in
+  Everglades National Park, Florida.}
+\newblock \emph{Estuarine, Coastal and Shelf Science}, \textbf{95}(4),
+  377--387.
+
+\bibitem[{Morse \emph{et~al.}(2011)Morse, Shen, Blanco-Garcia, Hunley,
+  Fentress, Wiggins, and Mulholland}]{morse2011environmental}
+Morse RE, Shen J, Blanco-Garcia JL, Hunley WS, Fentress S, Wiggins M,
+  Mulholland MR (2011).
+\newblock \enquote{Environmental and physical controls on the formation and
+  transport of blooms of the dinoflagellate Cochlodinium polykrikoides Margalef
+  in the lower Chesapeake Bay and its tributaries.}
+\newblock \emph{Estuaries and Coasts}, \textbf{34}(5), 1006--1025.
+
+\bibitem[{Nuttle \emph{et~al.}(2000)Nuttle, Fourqurean, Cosby, Zieman, and
+  Robblee}]{nuttle2000influence}
+Nuttle WK, Fourqurean JW, Cosby BJ, Zieman JC, Robblee MB (2000).
+\newblock \enquote{Influence of net freshwater supply on salinity in Florida
+  Bay.}
+\newblock \emph{Water Resources Research}, \textbf{36}(7), 1805--1822.
+
+\bibitem[{Rivera-Monroy \emph{et~al.}(2011)Rivera-Monroy, Twilley,
+  Mancera-Pineda, Madden, Alcantara-Eguren, Moser, Jonsson, Casta{\~n}eda-Moya,
+  Casas-Monroy, Reyes-Forero \emph{et~al.}}]{rivera2011salinity}
+Rivera-Monroy VH, Twilley RR, Mancera-Pineda JE, Madden CJ, Alcantara-Eguren A,
+  Moser EB, Jonsson BF, Casta{\~n}eda-Moya E, Casas-Monroy O, Reyes-Forero P,
+  \emph{et~al.} (2011).
+\newblock \enquote{Salinity and Chlorophyll a as Performance Measures to
+  Rehabilitate a Mangrove-Dominated Deltaic Coastal Region: the Ci{\'e}naga
+  Grande de Santa Marta--Pajarales Lagoon Complex, Colombia.}
+\newblock \emph{Estuaries and Coasts}, \textbf{34}(1), 1--19.
+
+\bibitem[{Rutchey and Godin(2009)}]{rutchey2009determining}
+Rutchey K, Godin J (2009).
+\newblock \enquote{Determining an appropriate minimum mapping unit in
+  vegetation mapping for ecosystem restoration: a case study from the
+  Everglades, USA.}
+\newblock \emph{Landscape ecology}, \textbf{24}(10), 1351--1362.
+
+\bibitem[{Soderqvist and Patino(2010)}]{soderqvist2010seasonal}
+Soderqvist LE, Patino E (2010).
+\newblock \enquote{Seasonal and spatial distribution of freshwater flow and
+  salinity in the Ten Thousand Islands Estuary, Florida, 2007- 2009.}
+\newblock \emph{US Geological Survey Data Series}, \textbf{501}.
+
+\bibitem[{Stachelek(2014)}]{stachelek2014}
+Stachelek J (2014).
+\newblock \emph{ipdw: Interpolation by Inverse Path Distance Weighting}.
+\newblock R package version 0.2-1,
+  \urlprefix\url{http://CRAN.R-project.org/package=ipdw}.
+
+\bibitem[{Suominen \emph{et~al.}(2010)Suominen, Tolvanen, and
+  Kalliola}]{suominen2010surface}
+Suominen T, Tolvanen H, Kalliola R (2010).
+\newblock \enquote{Surface layer salinity gradients and flow patterns in the
+  archipelago coast of SW Finland, northern Baltic Sea.}
+\newblock \emph{Marine environmental research}, \textbf{69}(4), 216--226.
+
+\bibitem[{van Etten(2014)}]{etten2014}
+van Etten J (2014).
+\newblock \emph{gdistance: distances and routes on geographical grids}.
+\newblock R package version 1.1-5,
+  \urlprefix\url{http://CRAN.R-project.org/package=gdistance}.
+
+\bibitem[{VanDerWal \emph{et~al.}(2014)VanDerWal, Falconi, Januchowski, Shoo,
+  and Storlie}]{vanderwal}
+VanDerWal J, Falconi L, Januchowski S, Shoo L, Storlie C (2014).
+\newblock \emph{SDMTools: Species Distribution Modelling Tools: Tools for
+  processing data associated with species distribution modelling exercises}.
+\newblock R package version 1.1-221,
+  \urlprefix\url{http://CRAN.R-project.org/package=SDMTools}.
+
+\bibitem[{Wang \emph{et~al.}(1994)Wang, van~de Kreeke, Krishnan, and
+  Smith}]{wang1994wind}
+Wang JD, van~de Kreeke J, Krishnan N, Smith D (1994).
+\newblock \enquote{Wind and tide response in Florida Bay.}
+\newblock \emph{Bulletin of Marine Science}, \textbf{54}(3), 579--601.
+
+\bibitem[{Xie \emph{et~al.}(2013)Xie, Zhang, and Berry}]{xie2013geographically}
+Xie Z, Zhang C, Berry L (2013).
+\newblock \enquote{Geographically weighted modelling of surface salinity in
+  Florida Bay using Landsat TM data.}
+\newblock \emph{Remote Sensing Letters}, \textbf{4}(1), 75--83.
+
+\bibitem[{Zimmerman \emph{et~al.}(1999)Zimmerman, Pavlik, Ruggles, and
+  Armstrong}]{zimmerman1999experimental}
+Zimmerman D, Pavlik C, Ruggles A, Armstrong MP (1999).
+\newblock \enquote{An experimental comparison of ordinary and universal kriging
+  and inverse distance weighting.}
+\newblock \emph{Mathematical Geology}, \textbf{31}(4), 375--390.
+
+\end{thebibliography}
