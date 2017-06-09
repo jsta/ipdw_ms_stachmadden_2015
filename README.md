@@ -7,4 +7,5 @@ To build run the following commands from the terminal:
 ```
 cd tex
 pdflatex stachmadden.tex
+cp stachmadden2015.pdf ../stachmadden2015.pdf
 ```
