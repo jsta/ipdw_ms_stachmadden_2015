@@ -7,5 +7,6 @@ To build the pdf run the following commands from the terminal:
 ```
 cd tex
 pdflatex stachmadden.tex
+pdflatex stachmadden.tex # run a 2nd time to capture bib
 cp stachmadden2015.pdf ../stachmadden2015.pdf
 ```
