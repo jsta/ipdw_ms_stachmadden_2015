@@ -258,7 +258,7 @@
    %{\fontfamily{pzc} \fontsize{28}{32} \selectfont Internationalical Software}
    \vfill
    {\it \small \noindent This is an Accepted Manuscript of an article published in the International Journal of Geographical Information Science%
-            \hfill \href{http://dx.doi.org/10.1080/13658816.2015.1018833}{DOI: 10.1080/13658816.2015.1018833}}}\\[0.1cm]
+            \hfill \href{https://doi.org/10.1080/13658816.2015.1018833}{DOI: 10.1080/13658816.2015.1018833}}}\\[0.1cm]
      \hrule height 3pt}}
 \if@review
   \renewcommand{\maketitle}{
